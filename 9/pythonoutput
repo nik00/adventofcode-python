@@ -1,0 +1,22 @@
+$ ./pythonTravellingSanta.py
+Cost to go everywhere from Arbre is 266
+Cost to go everywhere from Tambi is 251
+Cost to go everywhere from Norrath is 251
+Cost to go everywhere from Tristram is 269
+Cost to go everywhere from Straylight is 253
+Cost to go everywhere from Faerun is 300
+Cost to go everywhere from AlphaCentauri is 269
+Cost to go everywhere from Snowdin is 314
+Lowest Cost Path is 251
+
+$ ./pythonTravellingSanta.py 2
+Cost to go everywhere from Arbre is 871
+Cost to go everywhere from Tambi is 893
+Cost to go everywhere from Norrath is 868
+Cost to go everywhere from Tristram is 898
+Cost to go everywhere from Straylight is 895
+Cost to go everywhere from Faerun is 895
+Cost to go everywhere from AlphaCentauri is 867
+Cost to go everywhere from Snowdin is 898
+Highest Cost Path is 898
+
